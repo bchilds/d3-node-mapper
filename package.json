@@ -1,0 +1,15 @@
+{
+  "name": "d3-node-mapper",
+  "version": "1.0.0",
+  "description": "Helps map DND (or any) progression through connected nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Benjamin Childs",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2",
+    "webpack": "^4.21.0"
+  }
+}
