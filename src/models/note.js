@@ -1,4 +1,4 @@
-const Guid = import 'uuid/v4';
+const Guid = import 'uuid/v1';
 
 export default class Note {
   constructor(targetId, note) {
